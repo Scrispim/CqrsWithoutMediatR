@@ -1,4 +1,6 @@
 
+Usando CQRS sem MediatR no ASP.NET Core
+
 Como isso funciona "por baixo dos panos"?
 
 Não existe nenhum "middleware de roteamento" como no MediatR com .Send(). Em vez disso:
